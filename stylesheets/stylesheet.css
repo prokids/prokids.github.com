@@ -298,9 +298,11 @@ Full-Width Styles
 	margin: 0px auto;
 }
 
-#header_wrap img {
+#bkg {
 	position: relative;
 	top: -128px;
+	height: 768px;
+	overflow: hidden;
 }
 
 #header_wrap .inner {
