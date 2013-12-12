@@ -244,15 +244,17 @@ a {
 		-webkit-font-smoothing: antialiased;
 	}
 	
+	article {
+		width: 700px;
+		padding: 0px 10px;
+		float: left;
+	}
+	
 	aside {
 		padding: 5px 8px;
 		float: right;
-		width: 360px;
+		width: 240px;
 		border: 1px solid #333333;
-	}
-	
-	article {
-		float: left;
 	}
 	
 	footer {
