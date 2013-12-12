@@ -254,4 +254,8 @@ a {
 	article {
 		float: left;
 	}
+	
+	footer {
+		clear: both;
+	}
 }
