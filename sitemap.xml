@@ -6,7 +6,7 @@ layout: nil
 {% for post in site.posts %}
 	<url>
 		<loc>{{ site.baseurl }}{{ post.url }}</loc>
-		<lastmod>{{ post.date}}</lastmod>
+		<lastmod>{{ post.date }}</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
