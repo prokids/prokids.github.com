@@ -259,6 +259,9 @@ a {
 	
 	footer {
 		margin-top: 20px;
-		clear: both;
 	}
+}
+
+.clear {
+	clear: both;
 }
